@@ -3,3 +3,5 @@ opencv-python-headless
 xlsxwriter
 scenedetect
 easyocr
+Pillow
+numpy
